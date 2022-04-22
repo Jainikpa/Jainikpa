@@ -13,6 +13,10 @@ My name is Jainik Patel, and I am a Full Stack Developer with over 4 years of ex
 * 🧠  I'm learning Blockchain Technology
 * 🤝  I'm open to collaborating on Angular , Ionic and Blockchain
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/jainikpatel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 ### Skills
 
 <p align="left">
